@@ -1,0 +1,148 @@
+;tipo;Vraag;Respuesta;Alternativa 1;Alternativa 2;Alternativa 3
+1;-;¿Qué alimento tiene más carbohidratos?;Sweetener, herbal extract powder from Stevia leaf;Animal fat, beef tallow;Sauce, pepper or hot, ready-to-serve;Sweets, gelatin, dry powder, unsweetened
+2;-;¿Qué alimento tiene más carbohidratos?;Sweets, sugars, fructose, powder;Animal fat, lard (pork);Egg Benedict;Game meat, native, bearded seal, (oogruk), air-dried
+3;-;¿Qué alimento tiene más carbohidratos?;Sweets, sugars, granulated;Animal fat, mutton tallow;Yogourt, plain, Balkan style (4-6% M.F.);Egg, chicken, white, dried, powder, glucose reduced
+4;-;¿Qué alimento tiene más carbohidratos?;Sweets, turbinado;Animal fat, native, bowhead, oil;Milk, fluid, sheep, whole;Egg, chicken, white, dried
+5;-;¿Qué alimento tiene más carbohidratos?;Sweets, sugars, icing (powdered);Animal fat, native, seal oil;Soup, broth, fish;Soy protein isolate (prepared with sodium)
+6;-;¿Qué alimento tiene más carbohidratos?;Strawberry flavour mix, powder;Animal fat, native, walrus, oil;Plant-based beverage, coconut, enriched, unsweetened;Soy protein isolate (prepared with potassium)
+7;-;¿Qué alimento tiene más carbohidratos?;Dessert, rennin, vanilla, dry mix, unprepared;Fish oil, cod liver;Coffee, brewed, espresso, restaurant prepared;Game meat, native, moose, dried
+8;-;¿Qué alimento tiene más carbohidratos?;Drink, orange flavour, vitamin C added, powder;Fish oil, herring;Bok choy, pak-choi, boiled drained;Beverage, protein powder, whey based, powder
+9;-;¿Qué alimento tiene más carbohidratos?;Candies, gumdrops (jujubes);Fish oil, menhaden;Alcohol, beer, light (4% alcohol by volume);Fish, steelhead trout, meat, dried
+10;-;¿Qué alimento tiene más carbohidratos?;Candies, hard, sorbitol sweetened;Fish oil, menhaden, fully hydrogenated;Bamboo shoots, boiled, drained;Game meat, native, narwhal, meat, dried
+11;-;¿Qué alimento tiene más carbohidratos?;Tea, instant, sweetened, lemon flavour, powder;Fish oil, salmon;Coffee, brewed, espresso, restaurant-prepared, decaffeinated;Egg, chicken, white, pan dried, flakes
+12;-;¿Qué alimento tiene más carbohidratos?;Tea, instant, sweetened, lemon flavour, powder, decaffeinated;Fish oil, sardine;Vitamin water, all flavours, low Calorie;Wheat, vital wheat gluten
+13;-;¿Qué alimento tiene más carbohidratos?;Sweets, sugar, brown;Shortening, household, soybean (hydrogenated) and palm;Salad, taco, with salsa, homemade;Game meat, native, beluga, meat, dried
+14;-;¿Qué alimento tiene más carbohidratos?;Candies, hard;Shortening, household, unspecified vegetable and animal oils;Milk, fluid, whole, pasteurized, homogenized, 3.25% M.F.;Fish, arctic char, native, meat and skin, dried
+15;-;¿Qué alimento tiene más carbohidratos?;Drink, lemonade flavour, powder;Shortening, household, unspecified vegetable oil;Milk, fluid, buttermilk, cultured, whole;Fish, whitefish, native, smoked, dried
+16;-;¿Qué alimento tiene más carbohidratos?;Drink, fruit punch flavour, powder;Shortening, industrial, all purpose, canola and palm;Plant-based beverage, coconut, unenriched, unsweetened;Fish, cod (scrod), atlantic, dried and salted
+17;-;¿Qué alimento tiene más carbohidratos?;Drink, fruit punch flavour, vitamin C added, powder;Shortening, industrial, all purpose, soy and palm;Kefir, plain, low fat (0.5-1.9% M.F.);Game meat, native, caribou (reindeer), meat, dried
+18;-;¿Qué alimento tiene más carbohidratos?;Alcohol, cocktail, whisky sour mix, powder;Shortening, industrial, for baking (cake), canola;Creamed chipped beef, frozen;Snacks, pork skins, plain
+19;-;¿Qué alimento tiene más carbohidratos?;Sweets, sugars, brown, contains sugar and sucralose;Shortening, industrial, for baking (cake), soybean;Chicken nuggets, white meat, pre-cooked, frozen, not heated;Fish, salmon, red (sockeye), native, filets with skin, smoked
+20;-;¿Qué alimento tiene más carbohidratos?;Candies, chewing gum;Shortening, industrial, for baking (pastry), canola;Soup, stock, beef, homemade;Fish, herring eggs, native, Pacific, dry
+21;-;¿Qué alimento tiene más carbohidratos?;Dessert, pudding, lemon, dry mix, instant, unprepared;Shortening, industrial, for baking (pastry), soybean;Fast foods, entree, salad, vegetable, no dressing, with cheese and egg;Beverage, whey protein isolate, powder
+22;-;¿Qué alimento tiene más carbohidratos?;Sweets, sugars, maple, granulated;Shortening, industrial, for frying (liquid), canola;Chinese dish, shrimp and vegetables, restaurant prepared;Soy protein concentrate (prepared with acid and water wash)
+23;-;¿Qué alimento tiene más carbohidratos?;Icing (frosting), white, fluffy, dry mix, unprepared;Shortening, industrial, for frying (liquid), soybean;Energy drink, shot, sugar free;Soy protein concentrate (prepared with alcohol)
+24;-;¿Qué alimento tiene más carbohidratos?;Candies, chewing gum, sugarless;Shortening, industrial, for frying (solid), canola;Asparagus, canned, drained solids;Fish, cisco (lake herring, tullibee), native, smoked, dried
+25;-;¿Qué alimento tiene más carbohidratos?;Drink, lemonade flavour, vitamin C added, powder;Shortening, industrial, for frying (solid), soybean;Chicken breast tenders, breaded, cooked in conventional oven;Snacks, pork skins, barbecue
+26;-;¿Qué alimento tiene más carbohidratos?;Dessert, pudding, tapioca, dry mix, unprepared;Shortening, multipurpose, hydrogenated soybean and palm;Cream, 5%;Seaweed, spirulina, dried
+27;-;¿Qué alimento tiene más carbohidratos?;Sports drink, orange flavour, powder;Shortening, special purpose, baking;New Zealand spinach, boiled, drained;Fish, inconnu, native, smoked, dried
+28;-;¿Qué alimento tiene más carbohidratos?;Icing (frosting), vanilla (white), creamy, dry mix, unprepared;Shortening, special purpose, cake and icing (frosting);New Zealand spinach, boiled, drained, with salt;Game meat, native, walrus, dry
+29;-;¿Qué alimento tiene más carbohidratos?;Candies, jellybeans;Vegetable oil,  canola and soybean;Vitamin water, flavours not lemon/orange, low Calorie;Fish, smelt, dried
+30;-;¿Qué alimento tiene más carbohidratos?;Apple, dehydrated (low moisture), sulphured, uncooked;Vegetable oil, almond;Bok choy, pak-choi, raw;Plant-based beverage, protein powder, soy based, powder
+31;-;¿Qué alimento tiene más carbohidratos?;Dessert, pudding, vanilla, dry mix, regular, unprepared;Vegetable oil, apricot kernel;Lettuce, butterhead (Boston, bibb);Egg substitute, powder
+32;-;¿Qué alimento tiene más carbohidratos?;Beverage mix, carob flavour, powder;Vegetable oil, avocado;Soup, broth (consomme), beef, canned, condensed;Beverages, high protein powder
+33;-;¿Qué alimento tiene más carbohidratos?;Candies, fondant, homemade;Vegetable oil, babassu;Fast foods, sandwiches and burgers, cheeseburger, regular, double patty and bun, with condiments;Game meat, native, beaver, meat, dried
+34;-;¿Qué alimento tiene más carbohidratos?;Dessert, pudding, banana, dry mix, regular, unprepared;Vegetable oil, canola;Fast foods, sandwiches and burgers, cheeseburger, regular, double patty, with condiments;Peanut flour, defatted, salted
+35;-;¿Qué alimento tiene más carbohidratos?;Dessert, pudding, vanilla, dry mix, instant, unprepared;Vegetable oil, cocoa butter;Lettuce, red leaf;Seeds, sesame flour, low fat
+36;-;¿Qué alimento tiene más carbohidratos?;Dessert, pudding, banana, dry mix, instant, unprepared;Vegetable oil, coconut;Cabbage, napa, cooked;Seeds, cottonseed flour, low fat
+37;-;¿Qué alimento tiene más carbohidratos?;Candies, nougat, with almonds;Vegetable oil, corn;Cucumber, peeled, raw;Seeds, cottonseed meal, partially defatted
+38;-;¿Qué alimento tiene más carbohidratos?;Icing (frosting), chocolate, creamy, dry mix, unprepared;Vegetable oil, corn and canola;Beans, mung, mature seeds, sprouted, bean sprouts, canned, drained;Egg, chicken, dried, whole
+39;-;¿Qué alimento tiene más carbohidratos?;Dessert, pudding, lemon, dry mix, regular, unprepared;Vegetable oil, corn, peanut and olive;Fast foods, sandwiches and burgers, hamburger, large, double patty, with condiments, vegetables and mayonnaise;Egg, chicken, dried, whole, stabilized
+40;-;¿Qué alimento tiene más carbohidratos?;Dessert, flan, caramel custard, dry mix, unprepared;Vegetable oil, cottonseed;Turnip greens, canned, solids and liquid;Seeds, sunflower seed flour, partially defatted
+41;-;¿Qué alimento tiene más carbohidratos?;Candies, taffy, homemade;Vegetable oil, grapeseed;Soup, beef noodle, dehydrated, water added;Tofu, koyadofu, dried-frozen
+42;-;¿Qué alimento tiene más carbohidratos?;Dessert, rennin, chocolate, dry mix, unprepared;Vegetable oil, hazelnut;Chinese dish, beef and vegetable, restaurant prepared;Tofu, koyadofu, dried-frozen (prepared with calcium sulphate)
+43;-;¿Qué alimento tiene más carbohidratos?;Drink, fruit flavour, powder, vitamin C, unsweetened;Vegetable oil, mustard;Watercress, raw;Mollusks, whelk, unspecified, boiled or steamed
+44;-;¿Qué alimento tiene más carbohidratos?;Grains, cornstarch;Vegetable oil, oat;Cabbage, Chinese (pe-tsai), boiled, drained;Soy flour, defatted
+45;-;¿Qué alimento tiene más carbohidratos?;Dessert, pudding, rice, dry mix, unprepared;Vegetable oil, olive;Taro shoots, raw;Soy flour, low fat
+46;-;¿Qué alimento tiene más carbohidratos?;Sweetener, sucralose, SPLENDA;Vegetable oil, palm;Fast foods, sandwiches and burgers, cheeseburger, large, double patty, with condiments and vegetables;Soy meal, defatted, raw
+47;-;¿Qué alimento tiene más carbohidratos?;Beverage mix, chocolate flavour, powder;Vegetable oil, palm kernel;Soup, stock, fish, homemade;Fish, herring, native, Pacific, air-dried, packed in oil
+48;-;¿Qué alimento tiene más carbohidratos?;Candies, Skittles;Vegetable oil, peanut;Dock (sorrel), boiled, drained;Fish, arctic char, native, skin, raw
+49;-;¿Qué alimento tiene más carbohidratos?;Dessert, gelatin, dry mix, unprepared;Vegetable oil, poppyseed;Dock (sorrel), boiled, drained, with salt;Fish, whitefish, native, smoked, baked
+50;-;¿Qué alimento tiene más proteínas?;Sweets, gelatin, dry powder, unsweetened;Salisbury steak in gravy with macaroni and cheese, frozen;Sweetener, herbal extract powder from Stevia leaf;Animal fat, beef tallow
+51;-;¿Qué alimento tiene más proteínas?;Game meat, native, bearded seal, (oogruk), air-dried;New Zealand spinach, raw;Sweets, sugars, fructose, powder;Animal fat, lard (pork)
+52;-;¿Qué alimento tiene más proteínas?;Egg, chicken, white, dried, powder, glucose reduced;Gravy, au jus, canned;Sweets, sugars, granulated;Animal fat, mutton tallow
+53;-;¿Qué alimento tiene más proteínas?;Egg, chicken, white, dried;Pickles, cucumber, sour;Sweets, turbinado;Animal fat, native, bowhead, oil
+54;-;¿Qué alimento tiene más proteínas?;Soy protein isolate (prepared with sodium);Pickles, cucumber, sour, low sodium;Sweets, sugars, icing (powdered);Animal fat, native, seal oil
+55;-;¿Qué alimento tiene más proteínas?;Soy protein isolate (prepared with potassium);Soup, chicken noodle, canned, condensed, water added, reduced sodium;Strawberry flavour mix, powder;Animal fat, native, walrus, oil
+56;-;¿Qué alimento tiene más proteínas?;Game meat, native, moose, dried;Tofu, silken, soft;Dessert, rennin, vanilla, dry mix, unprepared;Fish oil, cod liver
+57;-;¿Qué alimento tiene más proteínas?;Beverage, protein powder, whey based, powder;Pickles, cucumber, dill (includes Kosher and Polish);Drink, orange flavour, vitamin C added, powder;Fish oil, herring
+58;-;¿Qué alimento tiene más proteínas?;Fish, steelhead trout, meat, dried;Pickles, cucumber, dill, low sodium;Candies, gumdrops (jujubes);Fish oil, menhaden
+59;-;¿Qué alimento tiene más proteínas?;Game meat, native, narwhal, meat, dried;Soup, stock, chicken, homemade;Candies, hard, sorbitol sweetened;Fish oil, menhaden, fully hydrogenated
+60;-;¿Qué alimento tiene más proteínas?;Egg, chicken, white, pan dried, flakes;Butterbur (fuki), boiled, drained;Tea, instant, sweetened, lemon flavour, powder;Fish oil, salmon
+61;-;¿Qué alimento tiene más proteínas?;Wheat, vital wheat gluten;Butterbur (fuki), boiled, drained, with salt;Tea, instant, sweetened, lemon flavour, powder, decaffeinated;Fish oil, sardine
+62;-;¿Qué alimento tiene más proteínas?;Game meat, native, beluga, meat, dried;Borage, raw;Sweets, sugar, brown;Shortening, household, soybean (hydrogenated) and palm
+63;-;¿Qué alimento tiene más proteínas?;Fish, arctic char, native, meat and skin, dried;Asparagus, canned, solids and liquid;Candies, hard;Shortening, household, unspecified vegetable and animal oils
+64;-;¿Qué alimento tiene más proteínas?;Fish, whitefish, native, smoked, dried;Asparagus, canned, solids and liquid, unsalted;Drink, lemonade flavour, powder;Shortening, household, unspecified vegetable oil
+65;-;¿Qué alimento tiene más proteínas?;Fish, cod (scrod), atlantic, dried and salted;Squash, summer, zucchini, boiled, drained;Drink, fruit punch flavour, powder;Shortening, industrial, all purpose, canola and palm
+66;-;¿Qué alimento tiene más proteínas?;Game meat, native, caribou (reindeer), meat, dried;Squash, summer, zucchini, boiled, drained, with salt;Drink, fruit punch flavour, vitamin C added, powder;Shortening, industrial, all purpose, soy and palm
+67;-;¿Qué alimento tiene más proteínas?;Snacks, pork skins, plain;Malabar spinach, cooked;Alcohol, cocktail, whisky sour mix, powder;Shortening, industrial, for baking (cake), canola
+68;-;¿Qué alimento tiene más proteínas?;Fish, salmon, red (sockeye), native, filets with skin, smoked;Soup, beef noodle, canned, condensed, water added;Sweets, sugars, brown, contains sugar and sucralose;Shortening, industrial, for baking (cake), soybean
+69;-;¿Qué alimento tiene más proteínas?;Fish, herring eggs, native, Pacific, dry;Pectin, liquid;Candies, chewing gum;Shortening, industrial, for baking (pastry), canola
+70;-;¿Qué alimento tiene más proteínas?;Beverage, whey protein isolate, powder;Meatballs, sweet and sour;Dessert, pudding, lemon, dry mix, instant, unprepared;Shortening, industrial, for baking (pastry), soybean
+71;-;¿Qué alimento tiene más proteínas?;Soy protein concentrate (prepared with acid and water wash);Gravy, beef, canned;Sweets, sugars, maple, granulated;Shortening, industrial, for frying (liquid), canola
+72;-;¿Qué alimento tiene más proteínas?;Soy protein concentrate (prepared with alcohol);Waxgourd (Chinese perserving melon), boiled, drained, with salt;Icing (frosting), white, fluffy, dry mix, unprepared;Shortening, industrial, for frying (liquid), soybean
+73;-;¿Qué alimento tiene más proteínas?;Fish, cisco (lake herring, tullibee), native, smoked, dried;Chop suey, with meat, canned;Candies, chewing gum, sugarless;Shortening, industrial, for frying (solid), canola
+74;-;¿Qué alimento tiene más proteínas?;Snacks, pork skins, barbecue;Dock (sorrel), raw;Drink, lemonade flavour, vitamin C added, powder;Shortening, industrial, for frying (solid), soybean
+75;-;¿Qué alimento tiene más proteínas?;Seaweed, spirulina, dried;Turnip greens, canned, unsalted;Dessert, pudding, tapioca, dry mix, unprepared;Shortening, multipurpose, hydrogenated soybean and palm
+76;-;¿Qué alimento tiene más proteínas?;Fish, inconnu, native, smoked, dried;Asparagus, frozen, boiled, drained;Sports drink, orange flavour, powder;Shortening, special purpose, baking
+77;-;¿Qué alimento tiene más proteínas?;Game meat, native, walrus, dry;Asparagus, frozen, boiled, drained, with salt;Icing (frosting), vanilla (white), creamy, dry mix, unprepared;Shortening, special purpose, cake and icing (frosting)
+78;-;¿Qué alimento tiene más proteínas?;Fish, smelt, dried;Radish, white icicle, raw;Candies, jellybeans;Vegetable oil,  canola and soybean
+79;-;¿Qué alimento tiene más proteínas?;Plant-based beverage, protein powder, soy based, powder;Soup, chicken vegetable, canned, condensed, water added;Apple, dehydrated (low moisture), sulphured, uncooked;Vegetable oil, almond
+80;-;¿Qué alimento tiene más proteínas?;Egg substitute, powder;Fast foods, sandwiches and burgers, cheeseburger, large, double patty, with condiments;Dessert, pudding, vanilla, dry mix, regular, unprepared;Vegetable oil, apricot kernel
+81;-;¿Qué alimento tiene más proteínas?;Beverages, high protein powder;Spinach, canned, solids and liquid;Beverage mix, carob flavour, powder;Vegetable oil, avocado
+82;-;¿Qué alimento tiene más proteínas?;Game meat, native, beaver, meat, dried;Spinach, canned, solids and liquids, unsalted;Candies, fondant, homemade;Vegetable oil, babassu
+83;-;¿Qué alimento tiene más proteínas?;Peanut flour, defatted, salted;Mustard spinach (tendergreen), boiled, drained;Dessert, pudding, banana, dry mix, regular, unprepared;Vegetable oil, canola
+84;-;¿Qué alimento tiene más proteínas?;Seeds, sesame flour, low fat;Mustard spinach (tendergreen), boiled, drained, with salt;Dessert, pudding, vanilla, dry mix, instant, unprepared;Vegetable oil, cocoa butter
+85;-;¿Qué alimento tiene más proteínas?;Seeds, cottonseed flour, low fat;Yogourt, plain (2-3.9% M.F.);Dessert, pudding, banana, dry mix, instant, unprepared;Vegetable oil, coconut
+86;-;¿Qué alimento tiene más proteínas?;Seeds, cottonseed meal, partially defatted;Soup, cream of vegetable, made with 2% M.F. milk, homemade;Candies, nougat, with almonds;Vegetable oil, corn
+87;-;¿Qué alimento tiene más proteínas?;Egg, chicken, dried, whole;Sausage, smoked, honey garlic, pre-cooked, reheated;Icing (frosting), chocolate, creamy, dry mix, unprepared;Vegetable oil, corn and canola
+88;-;¿Qué alimento tiene más proteínas?;Egg, chicken, dried, whole, stabilized;Soup, onion, canned, condensed, water added;Dessert, pudding, lemon, dry mix, regular, unprepared;Vegetable oil, corn, peanut and olive
+89;-;¿Qué alimento tiene más proteínas?;Seeds, sunflower seed flour, partially defatted;Soup, chicken noodle, canned, condensed, water added;Dessert, flan, caramel custard, dry mix, unprepared;Vegetable oil, cottonseed
+90;-;¿Qué alimento tiene más proteínas?;Tofu, koyadofu, dried-frozen;Stir fry with tofu;Candies, taffy, homemade;Vegetable oil, grapeseed
+91;-;¿Qué alimento tiene más proteínas?;Tofu, koyadofu, dried-frozen (prepared with calcium sulphate);Soup, cream, mushroom, canned, condensed, water added;Dessert, rennin, chocolate, dry mix, unprepared;Vegetable oil, hazelnut
+92;-;¿Qué alimento tiene más proteínas?;Mollusks, whelk, unspecified, boiled or steamed;Coffee substitute, cereal grain beverage, powder, with whole milk;Drink, fruit flavour, powder, vitamin C, unsweetened;Vegetable oil, mustard
+93;-;¿Qué alimento tiene más proteínas?;Soy flour, defatted;Basil, fresh;Grains, cornstarch;Vegetable oil, oat
+94;-;¿Qué alimento tiene más proteínas?;Soy flour, low fat;Soup, cheddar cheese, canned, condensed, water added;Dessert, pudding, rice, dry mix, unprepared;Vegetable oil, olive
+95;-;¿Qué alimento tiene más proteínas?;Soy meal, defatted, raw;Sauce, mustard, yellow, ready-to-serve;Sweetener, sucralose, SPLENDA;Vegetable oil, palm
+96;-;¿Qué alimento tiene más proteínas?;Fish, herring, native, Pacific, air-dried, packed in oil;Soup, cream, mushroom, canned, condensed, 2% M.F. milk added;Beverage mix, chocolate flavour, powder;Vegetable oil, palm kernel
+97;-;¿Qué alimento tiene más proteínas?;Fish, arctic char, native, skin, raw;Lettuce, looseleaf;Candies, Skittles;Vegetable oil, peanut
+98;-;¿Qué alimento tiene más proteínas?;Fish, whitefish, native, smoked, baked;Borage, boiled, drained;Dessert, gelatin, dry mix, unprepared;Vegetable oil, poppyseed
+99;-;¿Qué alimento tiene más grasa?;Animal fat, beef tallow;Sweetener, herbal extract powder from Stevia leaf;Borage, boiled, drained, with salt;Chicken, cornish game hens, meat and skin, raw
+100;-;¿Qué alimento tiene más grasa?;Animal fat, lard (pork);Sweets, sugars, fructose, powder;Soup, broccoli cheese, canned, condensed, water added;Chicken, broiler, wing, meat, raw
+101;-;¿Qué alimento tiene más grasa?;Animal fat, mutton tallow;Sweets, sugars, granulated;Vanilla extract, imitation, with alcohol;Chicken, broiler, drumstick, meat, roasted
+102;-;¿Qué alimento tiene más grasa?;Animal fat, native, bowhead, oil;Sweets, turbinado;Chicken, sautéed with almonds (almond guy ding);Turkey, wing, smoked, cooked, with skin, bone removed
+103;-;¿Qué alimento tiene más grasa?;Animal fat, native, seal oil;Sweets, sugars, icing (powdered);Pokeberry shoots, boiled, drained;Fish, butterfish, baked or broiled
+104;-;¿Qué alimento tiene más grasa?;Animal fat, native, walrus, oil;Strawberry flavour mix, powder;Pokeberry shoots, boiled, drained, with salt;Soup, stock, fish, homemade
+105;-;¿Qué alimento tiene más grasa?;Fish oil, cod liver;Dessert, rennin, vanilla, dry mix, unprepared;Tomato, yellow, raw;Pork, loin, sirloin chop, bone-in, lean and fat, roasted
+106;-;¿Qué alimento tiene más grasa?;Fish oil, herring;Drink, orange flavour, vitamin C added, powder;Bamboo shoots, canned, drained solids;Alcohol, rum  (40% alcohol by volume)
+107;-;¿Qué alimento tiene más grasa?;Fish oil, menhaden;Candies, gumdrops (jujubes);Milk, fluid, partly skimmed, 2% M.F.;Pork, stomach, raw
+108;-;¿Qué alimento tiene más grasa?;Fish oil, menhaden, fully hydrogenated;Candies, hard, sorbitol sweetened;Pumpkin leaves, raw;Game meat, native, moose, blood, raw
+109;-;¿Qué alimento tiene más grasa?;Fish oil, salmon;Tea, instant, sweetened, lemon flavour, powder;Soup, vegetable beef, dehydrated, water added;Veal, grain-fed, shoulder, whole, lean, roasted
+110;-;¿Qué alimento tiene más grasa?;Fish oil, sardine;Tea, instant, sweetened, lemon flavour, powder, decaffeinated;Turnip, frozen, unprepared;Veal, brain, braised
+111;-;¿Qué alimento tiene más grasa?;Shortening, household, soybean (hydrogenated) and palm;Sweets, sugar, brown;Soup, scotch broth, canned, condensed, water added;Turkey, all classes, leg, meat and skin, raw
+112;-;¿Qué alimento tiene más grasa?;Shortening, household, unspecified vegetable and animal oils;Candies, hard;Squash, summer, zucchini, raw;Chicken, broiler, wing, meat, cooked, rotisserie, with seasoning
+113;-;¿Qué alimento tiene más grasa?;Shortening, household, unspecified vegetable oil;Drink, lemonade flavour, powder;Soup, oxtail, dehydrated, water added;Veal, shoulder, blade, lean, raw
+114;-;¿Qué alimento tiene más grasa?;Shortening, industrial, all purpose, canola and palm;Drink, fruit punch flavour, powder;Squash, summer, zucchini, frozen, boiled, drained, with salt;Veal, thymus, braised
+115;-;¿Qué alimento tiene más grasa?;Shortening, industrial, all purpose, soy and palm;Drink, fruit punch flavour, vitamin C added, powder;Soup, chicken vegetable, dehydrated, water added;Pork, loin, rib half (country-style ribs), lean, roasted
+116;-;¿Qué alimento tiene más grasa?;Shortening, industrial, for baking (cake), canola;Alcohol, cocktail, whisky sour mix, powder;Squash, summer, zucchini, baby, raw;Fish, tuna, skipjack (aku), fresh, raw
+117;-;¿Qué alimento tiene más grasa?;Shortening, industrial, for baking (cake), soybean;Sweets, sugars, brown, contains sugar and sucralose;Broccoli raab (rapini), raw;Pork, kidney, braised
+118;-;¿Qué alimento tiene más grasa?;Shortening, industrial, for baking (pastry), canola;Candies, chewing gum;Cabbage, napa, raw;Pork, leg, shank portion, lean and fat, roasted
+119;-;¿Qué alimento tiene más grasa?;Shortening, industrial, for baking (pastry), soybean;Dessert, pudding, lemon, dry mix, instant, unprepared;Lettuce, iceberg;Goose, wild (Canada goose), native, breast, meat and skin, roasted
+120;-;¿Qué alimento tiene más grasa?;Shortening, industrial, for frying (liquid), canola;Sweets, sugars, maple, granulated;Soup, cream, mushroom, canned, condensed, reduced sodium, water added;Lamb, brain, braised
+121;-;¿Qué alimento tiene más grasa?;Shortening, industrial, for frying (liquid), soybean;Icing (frosting), white, fluffy, dry mix, unprepared;Mustard greens, frozen, boiled, drained;Pheasant, meat only, raw
+122;-;¿Qué alimento tiene más grasa?;Shortening, industrial, for frying (solid), canola;Candies, chewing gum, sugarless;Mustard greens, frozen, boiled, drained, with salt;Veal, shoulder, shank, lean, raw
+123;-;¿Qué alimento tiene más grasa?;Shortening, industrial, for frying (solid), soybean;Drink, lemonade flavour, vitamin C added, powder;Cauliflower, frozen, boiled, drained, with salt;"Lamb, Canadian, rib, lean and fat, 3mm (1/8"") trim, cooked"
+124;-;¿Qué alimento tiene más grasa?;Shortening, multipurpose, hydrogenated soybean and palm;Dessert, pudding, tapioca, dry mix, unprepared;Alcohol, table wine, white (11.5% alcohol by volume);Fish, salmon, pink (humpback), baked or broiled
+125;-;¿Qué alimento tiene más grasa?;Shortening, special purpose, baking;Sports drink, orange flavour, powder;Alcohol, table wine, red (11.5% alcohol by volume);"Lamb, New Zealand, shoulder, whole, lean and fat, 6mm (1/4"") trim, braised"
+126;-;¿Qué alimento tiene más grasa?;Shortening, special purpose, cake and icing (frosting);Icing (frosting), vanilla (white), creamy, dry mix, unprepared;Celery, raw;Pork, loin, centre cut (centre chop), bone-in, lean and fat, raw
+127;-;¿Qué alimento tiene más grasa?;Vegetable oil,  canola and soybean;Candies, jellybeans;Soup, vegetable, homemade;Turkey, tom, leg, meat and skin, raw
+128;-;¿Qué alimento tiene más grasa?;Vegetable oil, almond;Apple, dehydrated (low moisture), sulphured, uncooked;Soup, onion, dehydrated, water added;Turkey, broiler, meat only, roasted
+129;-;¿Qué alimento tiene más grasa?;Vegetable oil, apricot kernel;Dessert, pudding, vanilla, dry mix, regular, unprepared;Soup, cream, chicken, canned, condensed, 2% M.F. milk added;Pork, shoulder, picnic (arm), lean, roasted
+130;-;¿Qué alimento tiene más grasa?;Vegetable oil, avocado;Beverage mix, carob flavour, powder;Arugula, raw;Fish, bass, fresh water, mixed species, baked or broiled
+131;-;¿Qué alimento tiene más grasa?;Vegetable oil, babassu;Candies, fondant, homemade;Purslane, raw;Poultry, mechanically deboned, from backs and necks with skin, raw
+132;-;¿Qué alimento tiene más grasa?;Vegetable oil, canola;Dessert, pudding, banana, dry mix, regular, unprepared;Soup, chicken gumbo, canned, condensed, water added;Beef, spleen, raw
+133;-;¿Qué alimento tiene más grasa?;Vegetable oil, cocoa butter;Dessert, pudding, vanilla, dry mix, instant, unprepared;Tomato, orange, raw;Turkey, all classes, drumstick, meat and skin, raw
+134;-;¿Qué alimento tiene más grasa?;Vegetable oil, coconut;Dessert, pudding, banana, dry mix, instant, unprepared;Chrysanthemum leaves, raw;"Beef, flank, flank steak, boneless, lean and fat, 0mm (0"") trim, raw"
+135;-;¿Qué alimento tiene más grasa?;Vegetable oil, corn;Candies, nougat, with almonds;Chrysanthemum, garland, raw;Ham, lean, canned
+136;-;¿Qué alimento tiene más grasa?;Vegetable oil, corn and canola;Icing (frosting), chocolate, creamy, dry mix, unprepared;Lettuce, cos or romaine;Fish, whitefish, lake, native, baked
+137;-;¿Qué alimento tiene más grasa?;Vegetable oil, corn, peanut and olive;Dessert, pudding, lemon, dry mix, regular, unprepared;Spinach, canned, drained solids;"Beef, brisket, lean, 0mm (0"") trim, braised"
+138;-;¿Qué alimento tiene más grasa?;Vegetable oil, cottonseed;Dessert, flan, caramel custard, dry mix, unprepared;Fast foods, sandwiches and burgers, cheeseburger, large, triple patty, plain;Chicken, broiler, thigh, meat and skin,  stewed
+139;-;¿Qué alimento tiene más grasa?;Vegetable oil, grapeseed;Candies, taffy, homemade;Squash, summer, crookneck, canned, drained solids;Pork, loin, centre cut (centre chop), bone-in, lean and fat, broiled
+140;-;¿Qué alimento tiene más grasa?;Vegetable oil, hazelnut;Dessert, rennin, chocolate, dry mix, unprepared;Cabbage, Chinese (pe-tsai), raw;Chicken, broiler, thigh, meat and skin, raw
+141;-;¿Qué alimento tiene más grasa?;Vegetable oil, mustard;Drink, fruit flavour, powder, vitamin C, unsweetened;Soup, cream, chicken, canned, condensed, water added;Pork, shoulder, butt (blade boneless), lean, roasted
+142;-;¿Qué alimento tiene más grasa?;Vegetable oil, oat;Grains, cornstarch;Vine spinach, raw;Pork, loin, centre cut (centre chop), bone-in, lean, braised
+143;-;¿Qué alimento tiene más grasa?;Vegetable oil, olive;Dessert, pudding, rice, dry mix, unprepared;Alcohol, table wine, all (11.5% alcohol by volume);Turkey, all classes, heart, simmered
+144;-;¿Qué alimento tiene más grasa?;Vegetable oil, palm;Sweetener, sucralose, SPLENDA;Meat loaf with tomato sauce, mashed potatoes and peas;Fish, whitefish, lake, native, raw
+145;-;¿Qué alimento tiene más grasa?;Vegetable oil, palm kernel;Beverage mix, chocolate flavour, powder;Babyfood, dinner, jarred or frozen, chicken with vegetables, all stages;Fish, salmon, coho, wild, poached
+146;-;¿Qué alimento tiene más grasa?;Vegetable oil, peanut;Candies, Skittles;Waxgourd (Chinese preserving melon), raw;Turkey, hen, dark meat only, roasted
+147;-;¿Qué alimento tiene más grasa?;Vegetable oil, poppyseed;Dessert, gelatin, dry mix, unprepared;Swamp cabbage (skunk cabbage, water convulvolus), raw;Veal, sirloin, lean and fat, raw
